@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working in a tech company<br>I'm strudying computer science<br>Enjoy sports<br>
+I'm working in a tech company<br>Just graduated as an IT Engineer<br>Enjoy sports<br>
 
 
 ## 🌐 Socials:
