@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm working in a tech company<br>Just graduated as an IT Engineer<br>Enjoy sports<br>
+Engineer in Computer Science and Informatics with hands-on experience in software development, web technologies, and IT consulting. I enjoy working on innovative projects, especially in areas like inventory management and blockchain. 
+In my free time enjoy sports and nature<br>
 
 
 ## 🌐 Socials:
