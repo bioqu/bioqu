@@ -1,5 +1,5 @@
 # 💫 About Me:
-Engineer in Computer Science and Informatics with hands-on experience in software development, web technologies, and IT consulting. I enjoy working on innovative projects, especially in areas like inventory management and blockchain. 
+Computer and IT engineer. Working towards becoming a software and application developer. Currently working in IT support.
 In my free time enjoy sports and nature<br>
 
 
